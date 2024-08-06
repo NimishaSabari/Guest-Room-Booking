@@ -88,7 +88,7 @@ Google Login:** Users can sign up and log in using their gmail.
 
 - **Make Bookings:** Authenticated users can book accommodations for specific dates.
 
-  ![Screenshot 2024-08-06 174810](https://github.com/user-attachments/assets/51301997-26a8-4d10-87dd-bce2668eca35)
+![Screenshot 2024-08-06 174810](https://github.com/user-attachments/assets/51301997-26a8-4d10-87dd-bce2668eca35)
 
 - **Manage Listings:** Hosts can create, edit, and delete their listings.
   
