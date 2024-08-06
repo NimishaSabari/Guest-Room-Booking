@@ -96,7 +96,13 @@ Google Login:** Users can sign up and log in using their gmail.
 
 - **Responsive Design:** The application is designed to be responsive and work seamlessly across different devices.
 
-  
+#DATABASE WORKING - MongodbAtlas:
+
+![Screenshot 2024-08-06 181312](https://github.com/user-attachments/assets/4298b0bc-5037-4875-a5d2-71446bc4669b)
+![Screenshot 2024-08-06 181104](https://github.com/user-attachments/assets/f8bcb16e-7377-4dbb-ae15-fdeee6ec4310)
+![Screenshot 2024-08-06 181126](https://github.com/user-attachments/assets/0f1d3d3f-3d9a-4e01-a4be-2b771d6a719b)
+![Screenshot 2024-08-06 181249](https://github.com/user-attachments/assets/efa82511-ce2a-4d85-a2d4-d197ca8b7734)
+
 
 ## Technologies Used
 
