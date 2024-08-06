@@ -1,3 +1,5 @@
+
+
 # Guest-Room-Booking
 
 ## Overview
@@ -115,3 +117,10 @@ Google Login:** Users can sign up and log in using their gmail.
 - **JWT:** JSON Web Tokens for secure user authentication.
 - **Cloudinary:** Cloud-based image management for storing and serving images.
 - **Google Cloud:** For gmail based authentication
+
+#Contact Details :
+
+NAME : NIMISHA P S 
+COLLEGE NAME : KGISL Institute Of Technology 
+E-MAIL ID : nimishasabari15@gmail.com
+PHONE NUMBER : +91 9786773155
